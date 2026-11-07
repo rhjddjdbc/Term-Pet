@@ -1,7 +1,9 @@
 # Terminal Pet
 
 A Tamagotchi for your terminal, written in Rust with **no dependencies** (standard library only).
-
+<p align="center">
+  <img src="./pet.png" alt="Terminal Pet" width="480">
+</p>
 Pick one of five creatures, watch it hatch, feed it, play with it, keep it clean - and when you're stuck on a bug, explain it to your pet (rubber-duck debugging, but with a penguin).
 
 ```
